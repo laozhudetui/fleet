@@ -32,7 +32,7 @@
     "node-bourbon": "4.2.8",
     "node-sass": "^4.13.0",
     "normalizr": "2.3.1",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^4.0.0",
     "prop-types": "^15.0.0",
     "proxy-middleware": "0.15.0",
     "rc-pagination": "1.16.3",
