@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.20.3
 MAINTAINER Kolide Developers <engineering@kolide.co>
 
 RUN apk --update add ca-certificates
